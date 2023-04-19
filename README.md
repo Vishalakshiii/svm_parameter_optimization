@@ -13,7 +13,7 @@ We will also be using Fitness Function .
 Steel Industry Energy Consumption Dataset Data Set
 https://archive.ics.uci.edu/ml/machine-learning-databases/00618/
 
-The target attribute for classification is a category (GoodWare or Malware)
+The target attribute for classification is a category (Light load,Medium Load,Maximum Load)
 
 Number of Instances: 35040
 
