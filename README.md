@@ -21,7 +21,7 @@ Number of Attributes: 11
 
 ## Result
 
-<img width="269" alt="image" src="https://user-images.githubusercontent.com/91335213/233199709-04080dda-a189-49c6-9144-74f3f6352a3e.png">
+<img width="275" alt="image" src="https://user-images.githubusercontent.com/91335213/233205027-278f9b0c-9df8-42ee-990c-b5f607b0cb0d.png">
 
 
 ## Convergence Graph
@@ -29,4 +29,4 @@ Number of Attributes: 11
 
 ## Conclusion
 It concludes that as the number of iterations increases, the model becomes well trained and parameters have been optimised .
-Sample 5 has the best accuracy of 0.83.
+Sample 9 has the best accuracy of 0.82.
