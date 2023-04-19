@@ -20,7 +20,8 @@ Number of Instances: 35040
 Number of Attributes: 11
 
 ## Result
-<img width="269" alt="image" src="https://user-images.githubusercontent.com/91335213/233197333-f552dcaa-70bb-4c3f-b4ca-3463f9884372.png">
+
+<img width="269" alt="image" src="https://user-images.githubusercontent.com/91335213/233199709-04080dda-a189-49c6-9144-74f3f6352a3e.png">
 
 
 ## Convergence Graph
