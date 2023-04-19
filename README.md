@@ -20,12 +20,12 @@ Number of Instances: 35040
 Number of Attributes: 11
 
 ## Result
+<img width="269" alt="image" src="https://user-images.githubusercontent.com/91335213/233197333-f552dcaa-70bb-4c3f-b4ca-3463f9884372.png">
 
-<img width="281" alt="image" src="https://user-images.githubusercontent.com/91335213/233190497-76dc3351-3b59-4c3c-994a-36312f132a1d.png">
 
 ## Convergence Graph
 <img width="504" alt="image" src="https://user-images.githubusercontent.com/91335213/233190744-706c9786-acf4-4892-8595-01d5a5dbbc7b.png">
 
 ## Conclusion
 It concludes that as the number of iterations increases, the model becomes well trained and parameters have been optimised .
-Sample 6 and 10 has the best accuracy of 0.9955.
+Sample 5 has the best accuracy of 0.83.
